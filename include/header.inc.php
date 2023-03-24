@@ -22,8 +22,8 @@
         <section class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Back office entreprise</h1>
             <!-- <p class="col-md-8 fs-4">Dans cette page, nous allons afficher les 5 employés de notre entreprise ayant le plus grand salaire. </p> -->
-            <a class="btn btn-primary btn-lg" href="entreprise.php">Accueil</a>
-            <a class="btn btn-primary btn-lg" href="employe.php">Voir tous les employés</a>
+            <a class="btn btn-primary btn-lg" href="index.php">Accueil</a>
+            <a class="btn btn-primary btn-lg" href="listeEmploye.php">Voir tous les employés</a>
             <a class="btn btn-primary btn-lg" href="contact.php">Contactez-nous</a>
 
             
